@@ -1,4 +1,4 @@
-module github.com/mcoo/wordclouds
+module github.com/mcoo/wordclouds/v10
 
 go 1.13
 
